@@ -1,4 +1,6 @@
-<center><img src="https://www.noumankhalid.com/assets/images/nouman-khalid-logo.png" align="center" width="180" /></center>
+<p align="center">
+  <img src="https://www.noumankhalid.com/assets/images/nouman-khalid-logo.png" alt="Nouman Khalid Logo" width="180"/>
+</p>
 
 # <div align="center">Senior Frontend Engineer | Creative Developer | UI/UX Specialist</div>
 
