@@ -7,22 +7,22 @@
 I’m a **Senior Frontend Engineer** who turns complex ideas into fast, scalable, and visually engaging digital products.  
 Over the past decade, I’ve built and scaled **multi-domain entertainment platforms**, **AI-powered dashboards**, and **media streaming systems** using **Vue 3**, **React**, **Next.js**, and **Angular**.
 
-My focus is on crafting performance driven front-end architectures with **clean state management**, **secure integrations**, and **modern DevOps pipelines**.  
+My focus is on crafting performance-driven front-end architectures with **clean state management**, **secure integrations**, and **modern DevOps pipelines**.  
 I’m deeply hands-on with **Vite**, **Tailwind**, **Pinia**, and **TypeScript**, ensuring every project I touch is modular, maintainable, and production-ready.
 
-I work closely with cross-functional teams from design and backend to QA to deliver seamless user experiences.  
+I work closely with cross-functional teams—from design and backend to QA—to deliver seamless user experiences.  
 My philosophy is simple: build systems that are elegant, reliable, and flexible to evolve.
 
 <br/>
 
-## 🌐 Connect With Me  
+## <img src="https://img.icons8.com/?size=100&id=lgiMgii6gudl&format=png&color=ffffff" width="30"> Connect With Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noumankhalid1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://noumankhalid.com)
 
 <br/>
 
-## 💻 Tech Stack  
+## <img src="https://img.icons8.com/?size=100&id=3sgPu_H7LVTD&format=png&color=ffffff" width="30"> Tech Stack  
 
 ### **Frontend**
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
@@ -45,6 +45,7 @@ My philosophy is simple: build systems that are elegant, reliable, and flexible 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ### **Workflow & QA**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -52,7 +53,22 @@ My philosophy is simple: build systems that are elegant, reliable, and flexible 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-### 🛒 **E-Commerce & CMS**
+### **Hosting & Cloud Services**
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+> Experience deploying scalable applications using **Vercel**, **AWS**, and **Azure** with CI/CD pipelines, CDN optimization, and serverless setups.
+
+### **AI & ML Integrations**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLaMA 2](https://img.shields.io/badge/LLaMA%202-000000?style=for-the-badge&logo=meta&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF007F?style=for-the-badge&logo=groq&logoColor=white)
+
+> Integrated **LLama 2**, **OpenAI GPT**, and **Groq LLMs** for RAG-based assistants, multilingual chat systems, and intelligent enterprise dashboards.
+
+### **E-Commerce & CMS**
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 ![Magento](https://img.shields.io/badge/Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -62,20 +78,19 @@ My philosophy is simple: build systems that are elegant, reliable, and flexible 
 
 <br/>
 
-## 🚀 What I’m Working On
+## <img src="https://img.icons8.com/?size=100&id=64794&format=png&color=ffffff" width="30"/> What I’m Working On
 - Building **Next.js 15 + React 19** media admin dashboards with **TypeScript** and **JWT-based authentication**
-- Architecting **multi-tenant Vue 3 entertainment platforms** with **shared core libraries** and **microservices**
+- Architecting **multi-tenant Vue 3** entertainment platforms with shared core libraries and microservices
 - Integrating **AI-driven RAG assistants** into enterprise dashboards for intelligent insights
 - Creating performance-optimized **Dockerized deployments** with CI/CD pipelines
 
 <br/>
 
-## 🧠 Core Values
+## <img src="https://img.icons8.com/?size=100&id=1761&format=png&color=ffffff" width="30"/> Core Values
 - **Precision in code** and clarity in structure  
 - **Performance-first** approach for real-world scale  
 - **Collaboration** as the foundation of great engineering  
 - **Continuous improvement** through exploration and learning  
 
 ---
-
-⭐ **“Build it clean, make it fast, and let it scale naturally.”**
+<img src="https://img.icons8.com/?size=100&id=480QZ1z7xYDd&format=png&color=ffffff" width="30"/> **“Build it clean, make it fast, and let it scale naturally.”**
