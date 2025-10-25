@@ -1,4 +1,6 @@
-# <div align="center">👨‍💻 Senior Frontend Engineer | Creative Developer | UI/UX Specialist</div>
+<img src="https://www.noumankhalid.com/assets/images/nouman-khalid-logo.png" width="140" />
+
+# <div align="center">Senior Frontend Engineer | Creative Developer | UI/UX Specialist</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=noumimag&label=Profile%20Views&color=0e75b6&style=flat" alt="profile view counter"/>
